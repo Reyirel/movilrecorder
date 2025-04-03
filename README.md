@@ -50,19 +50,3 @@ Las contribuciones son bienvenidas. Si deseas contribuir:
 3. Realiza tus cambios y confirma los commits (`git commit -m 'Añadir nueva característica'`).
 4. Envía tus cambios al repositorio remoto (`git push origin feature/nueva-característica`).
 5. Abre un Pull Request detallando tus cambios.
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
-## Contacto
-
-Para más información o consultas, puedes contactar al desarrollador principal:
-
-- **Nombre**: Reyirel
-- **Correo electrónico**: [correo@example.com](mailto:correo@example.com)
-
----
-
-*Nota: Este README es una plantilla basada en la información disponible y puede requerir ajustes adicionales según las características específicas del proyecto.*
-
