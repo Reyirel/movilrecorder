@@ -1,16 +1,68 @@
-# acuerdate
+# Acuérdate
 
-A new Flutter project.
+**Acuérdate** es una aplicación móvil desarrollada en Flutter que te ayuda a recordar el lugar donde estacionaste tu vehículo, utilizando geolocalización para facilitar su localización posterior.
 
-## Getting Started
+## Características
 
-This project is a starting point for a Flutter application.
+- **Registro de ubicación de estacionamiento**: Guarda la ubicación exacta donde estacionaste tu vehículo.
+- **Navegación al vehículo**: Proporciona indicaciones para regresar al lugar de estacionamiento desde tu ubicación actual.
+- **Historial de estacionamientos**: Mantiene un registro de tus ubicaciones de estacionamiento anteriores.
 
-A few resources to get you started if this is your first Flutter project:
+## Instalación
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Clonar el repositorio**:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ```bash
+   git clone https://github.com/Reyirel/movilrecorder.git
+   ```
+
+2. **Navegar al directorio del proyecto**:
+
+   ```bash
+   cd movilrecorder
+   ```
+
+3. **Instalar las dependencias**:
+
+   ```bash
+   flutter pub get
+   ```
+
+4. **Ejecutar la aplicación**:
+
+   ```bash
+   flutter run
+   ```
+
+   Asegúrate de tener un dispositivo emulador o físico conectado y configurado para el desarrollo con Flutter.
+
+## Uso
+
+1. **Guardar ubicación**: Al estacionar tu vehículo, abre la aplicación y presiona el botón para guardar la ubicación actual.
+2. **Encontrar tu vehículo**: Cuando necesites regresar a tu vehículo, abre la aplicación y sigue las indicaciones para llegar a la ubicación guardada.
+
+## Contribuciones
+
+Las contribuciones son bienvenidas. Si deseas contribuir:
+
+1. Haz un fork del proyecto.
+2. Crea una nueva rama para tu característica o corrección de errores (`git checkout -b feature/nueva-caracteristica`).
+3. Realiza tus cambios y confirma los commits (`git commit -m 'Añadir nueva característica'`).
+4. Envía tus cambios al repositorio remoto (`git push origin feature/nueva-característica`).
+5. Abre un Pull Request detallando tus cambios.
+
+## Licencia
+
+Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+## Contacto
+
+Para más información o consultas, puedes contactar al desarrollador principal:
+
+- **Nombre**: Reyirel
+- **Correo electrónico**: [correo@example.com](mailto:correo@example.com)
+
+---
+
+*Nota: Este README es una plantilla basada en la información disponible y puede requerir ajustes adicionales según las características específicas del proyecto.*
+
